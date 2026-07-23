@@ -2,13 +2,13 @@
   "name": "site",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/pokroman/phycology-site#readme",
+  "homepage": "https://github.com/pokroman/psychology-site#readme",
   "bugs": {
-    "url": "https://github.com/pokroman/phycology-site/issues"
+    "url": "https://github.com/pokroman/psychology-site/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pokroman/phycology-site.git"
+    "url": "git+https://github.com/pokroman/psychology-site.git"
   },
   "license": "ISC",
   "author": "Pokhabov Roman",
